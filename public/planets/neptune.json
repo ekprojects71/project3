@@ -1,0 +1,31 @@
+{
+    "name": "Neptune",
+    "heading": {
+        "title": "The Windy Planet...",
+        "summary": "Floating over 2.7 billion miles from the sun, this blue giant is home to the fiercest winds of all the planets. It is named after the Roman god of the sea, for its deep blue appearance."
+    },
+    "overview": {
+        "point1": "Neptune was discovered on September 23, 1846 Johann Gottfried Galle, Urbain Jean Joseph Le Verrier, and John Couch Adams. It was discovered mathematically, without the use of a telescope.",
+        "point2": "Neptune is named after the Roman god of the sea, since it has a deep blue appearance.",
+        "point3": "Neptune is the eight and final planet from the Sun at a distance of 2.78 billion miles."
+    },
+    "features": {
+        "point1": "The last and smallest of the gas giants with a windy atmosphere home to gusts that blow as fast as 1,500 miles per hour. Its atmosphere produces many storms which create great cyclones visible in its cloud top.",
+        "point2": "A day on Neptune lasts just over 16 hours, and it takes 165 years to orbit the Sun. It travels at 12,158 miles per hour.",
+        "point3": "Neptune has a diameter of 30,600 miles and a circumference of 96,129 miles. This makes Neptune about 3.9 times bigger than the Earth.",
+        "point4": "Neptune's windy atmopshere is made up of heavy layers of hydrogen, helium, methane, and ammonia gases. Thin, white, wispy clouds float above this ocean of deep blue gas.",
+        "point5": "Being a cold planet, Neptune's average surface temperature is -392 degrees fahrenheit.",
+        "point6": "Neptune has a total of 14 moons. The most notable, and largest of the 14 is Triton.",
+        "point7": "Like Uranus, Neptune cannot be spotted with the naked eye. It was discovered mathematically based on gravitational studies pertaining to the other planets."
+    },
+    "extras": {
+        "point1": "Neptune is a stormy planet. It too has a spot similar to Jupiter's called The Great Dark Spot.",
+        "point2": "It has 6 faint rings, even less visible than the rings of Uranus.",
+        "point3": "The last time a spacecraft visited Neptune was in 1989 during the Voyager 2 mission."
+    },
+    "images": {
+        "img1": "Clouds on Neptune.",
+        "img2": "Storms on Neptune observed through an infrared telescope.",
+        "img3": "Neptune's largest moon, Triton."
+    }
+}

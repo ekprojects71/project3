@@ -1,0 +1,31 @@
+{
+    "name": "Saturn",
+    "heading": {
+        "title": "The Ringed Planet...",
+        "summary": "A vast world coated with a streaking sea of hydrogen and helium gas surrounded by a thin ring of ice crystals. Saturn is named after the Roman god of farming and wealth since it has a rich and prominent ring system and its golden glow was reminiscent of wheat."
+    },
+    "overview": {
+        "point1": "Saturn was first noted by the ancient Greeks who named it after their god of agriculture. Galileo was the first to observe it through telescope in the early 1600s.",
+        "point2": "It is named after the Roman god of agriculture, based on the Greeks' label.",
+        "point3": "Saturn is the sixth planet from the Sun at a distance of 886 million miles."
+    },
+    "features": {
+        "point1": "Saturn is the second of the gas giants and the only gas giant to posess a prominent ring system. Its atmopshere is made up of hydrogen and helium, which appear as golden clouds on the surface.",
+        "point2": "A day on Saturn lasts about 10 hours and 40 minutes and it takes Saturn 29 years to orbit the Sun. It orbits the Sun at a rate of 21,000 miles per hour.",
+        "point3": "Saturn is approximately 10 times more massive than the Earth. It has a diameter of 72,367 miles and a circumference of 227,000 miles. If you factor in its ring system, Saturn is wide enough to span over 9 Earths.",
+        "point4": "The atmopshere of saturn is comprised of hydrogen and helium gas which form streaks of brown, gold, and gray hues.",
+        "point5": "Saturn has a massive hexagonal storm on its north pole, it is a tremendous hurricane capable of swallowing the entire Earth whole. Since Saturn tilts on it's axis, it has seasons which each last for 7 years.",
+        "point6": "Saturn has over 80 moons. The largest moon, Titan is nearly as big as Mars and has a fairly dense atmopshere comprised of over 90% nitrogen.",
+        "point7": "To see Saturn, look for a pale yellow star in the early dawn that hangs low over the southern horizon."
+    },
+    "extras": {
+        "point1": "Saturn is the last of the planets that are visible to the naked eye.",
+        "point2": "Saturn is the least dense planet in the Solar System.",
+        "point3": "It is likely that more moons will be discovered orbiting Saturn."
+    },
+    "images": {
+        "img1": "The upper atmopshere of Saturn as it appeared from the Cassini spacecraft in 2017.",
+        "img2": "Saturn's hexagonal storm on its north pole.",
+        "img3": "Saturn's largest moon, Titan, which has an atmopshere made of nitrogen."
+    }
+}

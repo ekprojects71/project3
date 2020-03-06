@@ -1,0 +1,31 @@
+{
+    "name": "Mars",
+    "heading": {
+        "title": "The Red Planet...",
+        "summary": "A dead, dusty world drifts through space over 150 million miles away from the Earth. Mars' rust covered crust is comprised of dunes, mountains, valleys, volcanoes, deserts and canyons. The surface of the planet is littered with rocks which rest atop its soil, which is rich in iron oxide, giving the planet its trademark red color."
+    },
+    "overview": {
+        "point1": "Mars has been observed since ancient times, but it was not formally observed through telescope until the year 1610 by Galileo.",
+        "point2": "Mars is named after the Roman god, Mars, since it has two moons which parallels the two horses he owned.",
+        "point3": "Mars if the fourth planet from the Sun at a distance of 141 million miles."
+    },
+    "features": {
+        "point1": "Mars is the last of the inner planets. It is a terrestrial planet with a rugged terrain. The Martian soil has large traces of iron oxide which gives the entire planet a reddish hue. The martian terrain is akin to a rocky desert with canyons, mountains, valleys, and rock formations similar to the American southwest. Rovers that land on Mars have to be build to withstand its rugged terrain. Mars also has north and south poles comprised of dry ice.",
+        "point2": "A year on Mars lasts 687 days. Martian days last for 24.5 hours which is nearly on par with an Earth day. Mars travels at a rate of 54,000 miles per hour.",
+        "point3": "Mars has a diameter of 2,106 miles, which makes it about half the size of Earth. To circumnavigate Mars, you would need to travel over 13,000 miles. If you visited Mars, you would weigh about half of what you weigh on Earth.",
+        "point4": "Mars has a thin atmopshere comprised mainly of carbon dioxide. Its atmosphere is approximately 100 times thinner than Earth's. There is no way anyone would be able to breathe on Mars.",
+        "point5": "The average temperature on Mars is -80 degrees Fahrenheit, and temperatures can drop to below -195 degrees towards the poles. Although Mars doesn't have much of an atmosphere, it does have weather. The most notable weather phenomena on Mars are dust storms and snow storms comprised of co2 in the polar regions.",
+        "point6": "Mars has two moons, both of which are captured asteroids. These moons are named Phobos and Deimos, after the two horses owned by the Roman god.",
+        "point7": "To view Mars from Earth, one must look towards the southern horizon at around midnight. The bright amber star about 30 degrees above the horizon is Mars."
+    },
+    "extras": {
+        "point1": "Mars is one of the most explored planets in the solar system. There have been numerous probes and rovers sent to mars.",
+        "point2": "The highest volcano in our Solar System, Olympus Mons, can be found in the northern hemisphere of Mars. It is almost 3 times taller than Mount Everest.",
+        "point3": "Mars suffers over 200 asteroid impacts a year."
+    },
+    "images": {
+        "img1": "The rocky surface of Mars taken by the Curiosity rover.",
+        "img2": "Phobos and Deimos, the moons of Mars.",
+        "img3": "Olympus Mons, the highest volcano in the Solar System."
+    }
+}

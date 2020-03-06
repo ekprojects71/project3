@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 26.458333 26.458334"
+   height="100"
+   width="100"
+   sodipodi:docname="top.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="2.36"
+     inkscape:cx="-22.245763"
+     inkscape:cy="50"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs2">
+    <meshgradient
+       gradientTransform="matrix(3.7795275,0,0,3.7795275,0,-1022.5197)"
+       y="274.55713"
+       x="4.080913"
+       gradientUnits="userSpaceOnUse"
+       id="meshgradient817">
+      <meshrow
+         id="meshrow819">
+        <meshpatch
+           id="meshpatch821">
+          <stop
+             id="stop823"
+             style="stop-color:#ffffff;stop-opacity:1"
+             path="c 5.05542,-5.05542  13.2519,-5.05542  18.3073,0" />
+          <stop
+             id="stop825"
+             style="stop-color:#f2f2f2;stop-opacity:1"
+             path="c 5.05542,5.05542  5.05542,13.2519  0,18.3073" />
+          <stop
+             id="stop827"
+             style="stop-color:#ffffff;stop-opacity:1"
+             path="c -5.05542,5.05542  -13.2519,5.05542  -18.3073,0" />
+          <stop
+             id="stop829"
+             style="stop-color:#f2f2f2;stop-opacity:1"
+             path="c -5.05542,-5.05542  -5.05542,-13.2519  -1.77636e-15,-18.3073" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-270.54166)"
+     id="layer1"
+     style="fill:#f9f9f9;fill-opacity:1">
+    <path
+       id="path815"
+       transform="matrix(0.26458333,0,0,0.26458333,0,270.54166)"
+       d="M 50.019531 0.84570312 A 48.926805 48.926805 0 0 0 1.09375 49.773438 A 48.926805 48.926805 0 0 0 50.019531 98.699219 A 48.926805 48.926805 0 0 0 98.947266 49.773438 A 48.926805 48.926805 0 0 0 50.019531 0.84570312 z M 50.277344 13.611328 L 83.992188 70.474609 L 16.564453 70.474609 L 50.277344 13.611328 z "
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

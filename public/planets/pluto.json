@@ -1,0 +1,31 @@
+{
+    "name": "Pluto",
+    "heading": {
+        "title": "The Dwarf Planet...",
+        "summary": "The last of the original 9 planets, demoted to a dwarf planet in 2006, due to its irregular orbit which crosses into Neptune's. Pluto is a small, icy world almost as large as the Earth's moon. It is named after the Roman god of of the underworld."
+    },
+    "overview": {
+        "point1": "Pluto was discovered in 1930 by American astronomer Clyde Tombaugh.",
+        "point2": "It is named after the Roman god of the underworld.",
+        "point3": "Pluto is the 9th planet from the Sun, and the first of the dwarf planets at a distance of 3.2 billion miles."
+    },
+    "features": {
+        "point1": "Pluto is a world with an icy, mountainous surface comprised of frozen nitrogen, methane, and carbon monoxide.",
+        "point2": "A day on Pluto lasts for 6.4 Earth days, and it takes Pluto 248 years to orbit the Sun.",
+        "point3": "Pluto has a diameter of 1,476 miles, and a circumference of 4,494 miles, which makes it about 1/6th the size of Earth.",
+        "point4": "Pluto has a thin atmosphere made up of nitrogen, methane, and carbon monoxide.",
+        "point5": "Temperatures on Pluto can fall as low as -369 degrees Fahrenheit.",
+        "point6": "Pluto has 5 moons, all of which are captured asteroids. The largest of these 5 moons is Charon.",
+        "point7": "Pluto is so far away, it is still difficult for mosts telescopes to capture it. The most detailed and groundbreaking photographs of Pluto were produced by the New Horizons probe in 2015."
+    },
+    "extras": {
+        "point1": "Pluto's atmopshere is only present when it is at its closest point to the Sun and is produced when ice melts on its surface.",
+        "point2": "A third of Pluto is made up of frozen water, which is more than three times the amount of water on Earth.",
+        "point3": "There are many more dwarf planets beyond pluto, as well as a potential 10th planet, which has yet to be confirmed by observation."
+    },
+    "images": {
+        "img1": "Pluto and Charon's sizes compared to Australia.",
+        "img2": "Pluto's rough terrain.",
+        "img3": "Charon, the largest of Pluto's moons."
+    }
+}

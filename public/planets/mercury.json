@@ -1,0 +1,31 @@
+{
+    "name": "Mercury",
+    "heading": {
+        "title": "The Messenger...",
+        "summary": "A cratered, rocky world scorched by the Sun's heat. Mercury is the first planet in our solar system, and is known for its intense heat and short year. Mercury travels at a speed of 112,000 miles per hour, making it the fastest planet in our solar system. It is named after the Roman god, Mercury, the gods’ messenger who wore winged sandals which gave him the ability to fly and travel at great speeds."
+    },
+    "overview": {
+        "point1": "Mercury was first discovered in the year 265 BC",
+        "point2": "Named after the Roman god Mercury, the winged messener of the gods, known for his speed.",
+        "point3": "It is the first planet from the Sun at a distance of 36 million miles."
+    },
+    "features": {
+        "point1": "Mercury is a terrestrial planet with a rough, cratered crust, similar to the Earth’s moon.",
+        "point2": "A year on Mercury lasts 87.9 days, which is the time it takes Mercury to make one orbit around the Sun. Mercury orbits the sun at a rate of 112,000 miles per hour. A day on Mercury lasts 176 Earth days (4,224 hours).",
+        "point3": "Mercury is approximately 1/3rd the size of Earth. If you travelled all the way around Mercury, you would have to travel 9,525 miles. Mercury's gravity is equivalent to 38% of Earth's gravity. You would weigh 62% less on Mercury.",
+        "point4": "Since Mercury is the closest planet to the Sun, it has the weakest atmosphere of all the planets. Its nearly non-existent atmosphere is comprised mostly of helium and other gasses which derive from the Sun’s solar winds.",
+        "point5": "Days on Mercury can be as hot as 800 degrees Fahrenheit and temperatures can drop to -280 degrees at night. Mercury has next to no atmosphere, so it does not have any weather. Mercury does experience quakes, but they are very minor.",
+        "point6": "Mercury has no moons due to its small size and close distance to the Sun.",
+        "point7": "Mercury is visible from Earth and can be spotted during the mornings and evenings. Look for a bright yellow star that hangs low over the horizon towards the west."
+    },
+    "extras": {
+        "point1": "Although Mercury is the closest planet to the Sun, it is not the hottest since its thin atmosphere can’t trap the Sun’s heat.",
+        "point2": "If you were to visit Mercury, the Sun would appear two times larger than it appears on Earth.",
+        "point3": "As Mercury is in transit between the Sun and the Earth, it appears as a black dot in front of the Sun when viewed through a solar telescope."
+    },
+    "images": {
+        "img1": "Fissures on the surface of Mercury, which can be as deep as one mile.",
+        "img2": "A view of Mercury's surface taken by the MESSENGER probe in 2013.",
+        "img3": "Mercury in color taken by MESSENGER."
+    }
+}

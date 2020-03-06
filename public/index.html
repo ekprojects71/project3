@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="nofollow, noindex, noarchive">
+    <title>The Planets</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body onresize="adjustContent()">
+    
+    <!-- Navbar -->
+    <nav>
+        <div class="nav-top">
+            <span class="logo">The Planets</span>
+            <button class="hamburger checked">
+                <img src="images/ham.svg" alt="hambuger-icon">
+            </button>
+        </div>
+        <div class="nav-bottom">
+            <div class="options">
+                <div class="options-top">
+                    <span class="mercury">Mercury</span>
+                    <span class="venus">Venus</span>
+                    <span class="earth">Earth</span>
+                    <span class="mars">Mars</span>
+                    <span class="jupiter">Jupiter</span>
+                </div>
+                <div class="options-bttm">
+                    <span class="saturn">Saturn</span>
+                    <span class="uranus">Uranus</span>
+                    <span class="neptune">Neptune</span>
+                    <span class="pluto">Pluto</span>
+                </div>    
+            </div>
+        </div>
+    </nav>
+    
+    <!-- Body -->
+    <div class="container">
+        <!-- JUMBOTRON -->
+        <div class="jumbotron">
+            <div class="planet-jumbo-label">
+                <span>Planet</span>
+            </div>
+            <div class="planet-jumbo-img">
+                <img src="images/mercury/mercury.png" alt="planet">
+            </div>
+        </div>
+
+        <!-- Overview -->
+        <div class="overview">
+            <div class="overview-left">
+                <div class="ol-heading">
+                    <span>Heading</span>
+                </div>
+                <div class="ol-summary">
+                    <span>Summary of planet</span>
+                </div>
+            </div>
+            <div class="overview-right">
+                <div class="or-heading">
+                    <span>Image Gallery</span>
+                </div>
+                <div class="or-gallery">
+                    <div>
+                        <img src="images/mercury/img1.jpg" alt ="img1" class="img1">
+                    </div>
+                    <div>
+                        <img src="images/mercury/img2.jpg" alt ="img2" class="img2">
+                    </div>
+                    <div >
+                        <img src="images/mercury/img3.jpg" alt ="img3" class="img3">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Facts Banner -->
+        <div class="facts-headline">
+            <span>A Look At </span>
+            <span class="fh-planet">Planet</span>
+            
+        </div>
+        
+        <!-- Facts Body -->
+        <div class="facts-body">
+            <div class="fb-left">
+                <div class="pl-history">
+                    <span class="plh-title">Overview</span>
+                    <ul class="plh-points ov-pts">
+                        
+                    </ul>
+                </div>
+                <div class="pl-history">
+                    <span class="plh-title">Main Features</span>
+                    <ul class="plh-points mf-pts">
+
+                    </ul>
+                </div>
+                <div class="pl-history">
+                    <span class="plh-title">Other Facts</span>
+                    <ul class="plh-points of-pts">
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="fb-right"></div>
+        </div>
+    </div>
+
+    <!-- Image Modal -->
+    <div class="img-modal im-hidden">
+        <button class="exit">X</button>
+        <div class="im-descrip">
+            <img src="..." alt="modal-img" class="im-img">
+            <span>Description</span>
+        </div>
+    </div>
+    
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-left">
+                <span>The Planets</span>
+                <img src="images/top.svg" alt="back-to-top" class="scroll-top">
+            </div>
+            <div class="footer-right">
+                <p>A web tour of the main planets in our Solar System</p>
+                <p>Designed as a fully responsive webpage. To learn more, feel free to read the docs on drive.</p>
+            </div>
+        </div>
+        
+    </footer>
+
+    <script src="planets.js"></script>
+</body>
+</html>

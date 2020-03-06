@@ -1,0 +1,31 @@
+{
+    "name": "Jupiter",
+    "heading": {
+        "title": "The King of the Planets...",
+        "summary": "The restless giant of our Solar System where storms rage unceasingly. The colorful, banded upper atmopshere of Jupter torrents above the ocean of gas that lurks below. Jupter is named after the king of the Roman gods, since it is the most massive planet in the Solar System."
+    },
+    "overview": {
+        "point1": "Jupiter was first observed by the Babylonians in the 8th century BC. Galileo was the first to observe it through telescope in the early 1600s.",
+        "point2": "Named after the king of the Roman gods, who was king of the sky and thunder.",
+        "point3": "Jupiter is the fifth planet from the Sun at a distance of 484 million miles."
+    },
+    "features": {
+        "point1": "Jupiter is the first, and largest of the four gas giants. It has a cloudy upper atmosphere comprised of gasses and crystals, and an ocean of liquid hydrogen which lies above its rocky core.",
+        "point2": "A day on Jupiter lasts nearly 10 hours, and a year on Jupiter lasts almost 12 Earth years. Jupiter orbits the Sun at a rate of 30,000 miles per hour.",
+        "point3": "Jupiter is so massive, it can fit 100 Earths inside it. The diameter of Jupiter is 86,881 miles and its circumference is 273,000 miles.",
+        "point4": "If you were to fly over Jupiter, you would witness an ocean of giant clouds with the flash of lighning glowing through the surface.",
+        "point5": "Jupiter's upper atmopshere is a violent storm of swirling gasses comprised of ammonia and sulfur. The cloud top of Jupiter produces tremendous lightning storms and the planet's strong magentic field cause aurora to appear over its poles.",
+        "point6": "Jupiter has over 67 moons. The most notable ones are the four Galilean moons Europa, Io, Callisto and Ganymede.",
+        "point7": "Jupiter is the second brightest of the five planets visible to the naked eye. It can be spotted at the break of dawn as bright yellow star with a greenish tint, low over the horizon towards the southeast."
+    },
+    "extras": {
+        "point1": "Jupiter's mass gives it a strong gravitational pull, causing the planet to capture most of the debris in our Solar System, which acts as a bombardment shield for the Earth.",
+        "point2": "All of the planets in the Solar System could fit inside Jupiter.",
+        "point3": "Jupiter's moon, Europa, has an ocean of liquid water below its icy crust."
+    },
+    "images": {
+        "img1": "The storms of Jupiter, including the famous great red spot.",
+        "img2": "A closer view of the cloud tops of Jupiter.",
+        "img3": "The Galilean moons of Jupiter: Io, Europa, Ganymede and Callisto."
+    }
+}

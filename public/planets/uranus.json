@@ -1,0 +1,31 @@
+{
+    "name": "Uranus",
+    "heading": {
+        "title": "The Pale Planet...",
+        "summary": "A frozen world layered with icy clouds lies 890 million miles away from Saturn. Uranus is named after the Greek god of the sky due to its blue glow. It is one of two of the eight main planets unknown to ancient cultures."
+    },
+    "overview": {
+        "point1": "Uranus was discovered on March 13, 1781 by the English astronomer William Herschel.",
+        "point2": "Instead of being named after a Roman god it is named after the Greek god of the sky, Uranus.",
+        "point3": "Uranus is the seventh planet from the Sun at a distance of 1.84 billion miles."
+    },
+    "features": {
+        "point1": "Uranus is the third of the gas giants with a thick atmosphere of hydrogen, helium, ammonia and methane. Beneath the atmosphere lies a thick icy crust of frozen water and ammonia. If you were flying over Uranus you might notice its rather narrow rings which are notoriously difficult to spot through a telescope.",
+        "point2": "A day on Uranus lasts 17 hours, and a year lasts 84 Earth years. It travels through space at a rate of 15,000 miles per hour.",
+        "point3": "Uranus has a diameter of 31,518 miles and a circumference of 99,786 miles, which means Uranus is about four times larger than the Earth.",
+        "point4": "The atmosphere of Uranus is comprised of thick, icy clouds of pale, blue hues. There is also an upper cirrus cloud layer that floats above the main cloud top.",
+        "point5": "Uranus has a surface temperature of -300 degrees fahrenheit, a testament to its icy core and extreme distance from the Sun.",
+        "point6": "Uranus has 27 moons. The most notable moons, the Literary Moons, are all named after Shakespeare characters such as Ariel, Umbriel, Rosalin, and Miranda.",
+        "point7": "It is nearly impossible to spot Uranus with the naked eye, which is why it was unknown to ancient cultures. From Earth, it cant be distinguished from an ordinary star that shines many light years away."
+    },
+    "extras": {
+        "point1": "Uranus is thought to have solid diamond precipitation due to its high atmopsheric pressure.",
+        "point2": "Uranus is the only planet that is flipped on its side, meaning its north and south poles orient east and west.",
+        "point3": "Uranus is the coldest of all the planets."
+    },
+    "images": {
+        "img1": "What the upper layer of Uranus might look like.",
+        "img2": "The rings of Uranus.",
+        "img3": "Moons of Uranus, named after Shakespeare characters."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Venus",
+    "heading": {
+        "title": "The Morning Star...",
+        "summary": "A world enveloped by a thick, milky atmosphere lies between our Earth and Mercury. It is known as the Earth's sister planet due to its similar size and distance from the Sun. It is named after the Roman goddess, Venus, the prettiest of the gods, since it is the brighest planet visible to the naked eye, and is most prominent during the early morning hours."
+    },
+    "overview": {
+        "point1": "Venus has been observed since ancient times, and was first recorded in 1600 BC by the Babylonians. Galileo was the first to formally observe it through a telescope in the early 1600s.",
+        "point2": "Named after the Roman goddess of beauty, Venus (not the razor), for being the brightest planet in the sky.",
+        "point3": "Venus is the second planet from the Sun at a distance of 67 million miles."
+    },
+    "features": {
+        "point1": "Venus is of of the four inner terrestrial planets of our solar system. Its rocky, molten surface is covered by a thick co2 atmosphere, which gives the surface an orange, hellish appearance.",
+        "point2": "A day on Venus is equivalent to 243 Earth days due to its slow orbit and axial rotation. It takes Venus 225 Earth days to orbit the Sun, so days are actually longer than years on Venus.",
+        "point3": "Venus is barely smaller than Earth, being only about 7600 miles in dimateter, which is 400 miles shy of Earth's diameter.",
+        "point4": "Venus is covered by a thick carbon atmopshere believed to have been caused by a runaway greenhouse effect beginning about 2 billion years ago.",
+        "point5": "The heavy presence of carbon in Venus' atmopshere causes the planet to trap a lot of the Sun's heat and therefore, a day on Venus will be at an average temperature of 863 degrees Fahrenheit. The thick cloud cover of Venus is home to violent lightning storms which flash over the planet's hellish surface.",
+        "point6": "Like Mercury, Venus does not have any moons orbiting it.",
+        "point7": "Venus is one of the easiest planets to spot from Earth. It is the brightest object in the early morning and evening hours. Look for a large, bright yellow star above the horizon. If in the right conditions, you can find it by following the soft, subtle shadows it produces."
+    },
+    "extras": {
+        "point1": "Venus is so bright, it is capable of casting shadows on Earth which may be observed during twilight.",
+        "point2": "The Soviet Venera 13 probe was the first manmade object to land on the surface of Venus and take pictures of it. It was able to transmit signals 127 minutes until its signal was inevitably lost.",
+        "point3": "Venus has the most volcanoes out of all the planets."
+    },
+    "images": {
+        "img1": "The famous photo of Venus' surface taken by the Venera 13 probe.",
+        "img2": "A storm on Venus.",
+        "img3": "Shadows cast by Venus in the early evening hours during a new moon."
+    }
+}

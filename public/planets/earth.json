@@ -1,0 +1,31 @@
+{
+    "name": "Earth",
+    "heading": {
+        "title": "The Blue Marble...",
+        "summary": "Our home in the Universe and the only planet known to contain life. The Earth is a vibrant planet comprised of oceans, seas, and various types of terrains and geological formations unlike those on other planets. It is named after the Germanic word Earth which means ground."
+    },
+    "overview": {
+        "point1": "Life has existed on Earth for over 3 billion years. Life on earth began in the oceans and has since spread all around the planet, most notably, on land, which is home to the only known intelligent species in the universe.",
+        "point2": "Earth is named after the Germanic word for ground. It is the only planet not named after a Roman god.",
+        "point3": "Earth is the third planet from the Sun at a distance of 93 million miles."
+    },
+    "features": {
+        "point1": "Earth is the third of the four terrestrial planets and is the only terra planet with liquid water on its surface.",
+        "point2": "A day on Earth is 24 hours and it takes the Earth 365 days to orbit the Sun. (1 year). Earth orbits the sun at a rate of nearly 70,000 miles per hour.",
+        "point3": "The Earth is about 8,000 miles in diameter and has a circumference of nearly 25,000 miles at the equator.",
+        "point4": "Earth's atmosphere is comprised mostly of nitrogen, oxygen, and carbon.",
+        "point5": "Earth has five main climates, which influence the weather and temperatue depending on where you live. Climate is largely influenced by a region's latitude.",
+        "point6": "Earth has one moon, and has the largest moon of all the planets relative to its size. The moon is 239,000 miles away from the Earth.",
+        "point7": "There have been many photos taken of Earth during various space missions. If you visited another planet, Earth would look like a bright star to the naked eye."
+    },
+    "extras": {
+        "point1": "The Earth is home to many celebrities.",
+        "point2": "Programming languages were invented on Earth.",
+        "point3": "Nitrogen makes up over 70% of our atmosphere. Oxygen only accounts for about 21%."
+    },
+    "images": {
+        "img1": "The moon over the Pacific Ocean taken by NASA's Deep Space Climate Observatory spacecraft.",
+        "img2": "Earth taken from the surface of the moon during the Apollo 11 mission.",
+        "img3": "Magnified image of Earth and the moon taken from Mars by the NASA HiRISE camera."
+    }
+}
