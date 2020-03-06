@@ -72,6 +72,7 @@ async function queryPlanet(planet) {
     return data;
 }
 
+adjustContent();
 let currentPlanet = "";
 
 //initialize to mercury
