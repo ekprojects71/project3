@@ -16,7 +16,7 @@ const scrollTop = document.querySelector(".scroll-top");
 
 //HTML Template functions
 const buildJumbo = (planet) => {
-    jumboImg.setAttribute("src", `images/${planet.name}/${planet.name}.png`);
+    jumboImg.setAttribute("src", `images/${planet.name.toLowerCase()}/${planet.name.toLowerCase()}.png`);
     jumboLabel.innerText = planet.name;
 };
 const buildSummary = (planet) => {
@@ -24,9 +24,9 @@ const buildSummary = (planet) => {
     summary.querySelector(".ol-summary span").innerText = planet.heading.summary;
 };
 const buildImgGallery = (planet) => {
-    imgGallery.querySelector(".img1").setAttribute("src", `images/${planet.name}/img1.jpg`);
-    imgGallery.querySelector(".img2").setAttribute("src", `images/${planet.name}/img2.jpg`);
-    imgGallery.querySelector(".img3").setAttribute("src", `images/${planet.name}/img3.jpg`);
+    imgGallery.querySelector(".img1").setAttribute("src", `images/${planet.name.toLowerCase()}/img1.jpg`);
+    imgGallery.querySelector(".img2").setAttribute("src", `images/${planet.name.toLowerCase()}/img2.jpg`);
+    imgGallery.querySelector(".img3").setAttribute("src", `images/${planet.name.toLowerCase()}/img3.jpg`);
 };
 const buildHeadline = (planet) => {
     planetHeadline.innerText = planet.name;
