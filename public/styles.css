@@ -608,6 +608,10 @@ footer {
         font-size: 2.25rem;
         top: 420px;
     }
+
+    .plh-pt {
+        text-align: left;
+    }
 }
 
 /* width: 670px */
